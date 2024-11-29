@@ -1,0 +1,59 @@
+Error reading JSON file /home/hzpetkev/public_html/e-wachat.id/routes/../flow-json/nodes/lWvj6K0xI0FlSKJoyV7ak9DN0mzvKJK8/hIMUdPVIqx7VKG8fPHNIPVZxXpMYT0r0.json: Error: ENOENT: no such file or directory, open '/home/hzpetkev/public_html/e-wachat.id/routes/../flow-json/nodes/lWvj6K0xI0FlSKJoyV7ak9DN0mzvKJK8/hIMUdPVIqx7VKG8fPHNIPVZxXpMYT0r0.json'
+    at Object.openSync (node:fs:590:3)
+    at Object.readFileSync (node:fs:458:35)
+    at readJsonFromFile (/home/hzpetkev/public_html/e-wachat.id/functions/function.js:930:25)
+    at /home/hzpetkev/public_html/e-wachat.id/routes/chatFlow.js:109:19
+    at Layer.handle [as handle_request] (/home/hzpetkev/nodevenv/public_html/e-wachat.id/16/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/hzpetkev/nodevenv/public_html/e-wachat.id/16/lib/node_modules/express/lib/router/route.js:149:13)
+    at /home/hzpetkev/public_html/e-wachat.id/middlewares/user.js:34:21
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) {
+  errno: -2,
+  syscall: 'open',
+  code: 'ENOENT',
+  path: '/home/hzpetkev/public_html/e-wachat.id/routes/../flow-json/nodes/lWvj6K0xI0FlSKJoyV7ak9DN0mzvKJK8/hIMUdPVIqx7VKG8fPHNIPVZxXpMYT0r0.json'
+}
+Error reading JSON file /home/hzpetkev/public_html/e-wachat.id/routes/../flow-json/edges/lWvj6K0xI0FlSKJoyV7ak9DN0mzvKJK8/hIMUdPVIqx7VKG8fPHNIPVZxXpMYT0r0.json: Error: ENOENT: no such file or directory, open '/home/hzpetkev/public_html/e-wachat.id/routes/../flow-json/edges/lWvj6K0xI0FlSKJoyV7ak9DN0mzvKJK8/hIMUdPVIqx7VKG8fPHNIPVZxXpMYT0r0.json'
+    at Object.openSync (node:fs:590:3)
+    at Object.readFileSync (node:fs:458:35)
+    at readJsonFromFile (/home/hzpetkev/public_html/e-wachat.id/functions/function.js:930:25)
+    at /home/hzpetkev/public_html/e-wachat.id/routes/chatFlow.js:110:19
+    at Layer.handle [as handle_request] (/home/hzpetkev/nodevenv/public_html/e-wachat.id/16/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/hzpetkev/nodevenv/public_html/e-wachat.id/16/lib/node_modules/express/lib/router/route.js:149:13)
+    at /home/hzpetkev/public_html/e-wachat.id/middlewares/user.js:34:21
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) {
+  errno: -2,
+  syscall: 'open',
+  code: 'ENOENT',
+  path: '/home/hzpetkev/public_html/e-wachat.id/routes/../flow-json/edges/lWvj6K0xI0FlSKJoyV7ak9DN0mzvKJK8/hIMUdPVIqx7VKG8fPHNIPVZxXpMYT0r0.json'
+}
+File /home/hzpetkev/public_html/e-wachat.id/routes/../flow-json/nodes/lWvj6K0xI0FlSKJoyV7ak9DN0mzvKJK8/hIMUdPVIqx7VKG8fPHNIPVZxXpMYT0r0.json does not exist.
+File /home/hzpetkev/public_html/e-wachat.id/routes/../flow-json/edges/lWvj6K0xI0FlSKJoyV7ak9DN0mzvKJK8/hIMUdPVIqx7VKG8fPHNIPVZxXpMYT0r0.json does not exist.
+File not found: /home/hzpetkev/public_html/e-wachat.id/routes/../conversations/inbox/lWvj6K0xI0FlSKJoyV7ak9DN0mzvKJK8/SIBjIjBiBBBBj.json
+Message with metaChatId wamid.HBgNNjI4MTgwNzc3NzE3NhUCABEYEjY3MzY0RjU4RTYyNTBCQzkxOAA= not found
+Message with metaChatId wamid.HBgNNjI4MTgwNzc3NzE3NhUCABEYEkFFNDcwN0NFMTAwMjE5RjE3QwA= not found
+node:internal/process/promises:279
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: connect ECONNREFUSED 127.0.0.1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1278:16) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 3306,
+  fatal: true
+}
+node:internal/process/promises:279
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: connect ECONNREFUSED 127.0.0.1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1278:16) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 3306,
+  fatal: true
+}

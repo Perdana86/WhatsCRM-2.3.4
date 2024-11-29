@@ -1,0 +1,92 @@
+[
+  {
+    "type": "text",
+    "metaChatId": "wamid.HBgNNjI4MTI5ODA4ODg4ORUCABIYIDZGREY0OUIzNTIwQzczQTdCRjRERkEyMTk2MjRFRjQ5AA==",
+    "msgContext": {
+      "type": "text",
+      "text": {
+        "preview_url": true,
+        "body": "Sore pak"
+      }
+    },
+    "reaction": "",
+    "timestamp": 1728997896,
+    "senderName": "PERDANA AI",
+    "senderMobile": "6281298088889",
+    "status": "",
+    "star": false,
+    "route": "INCOMING"
+  },
+  {
+    "type": "text",
+    "metaChatId": "wamid.HBgNNjI4MTI5ODA4ODg4ORUCABIYIDMxMjBDNEIzNjYxODNCMTNGNjgzMzNGMTMzNjI2QTc1AA==",
+    "msgContext": {
+      "type": "text",
+      "text": {
+        "preview_url": true,
+        "body": "Tes"
+      }
+    },
+    "reaction": "",
+    "timestamp": 1728998028,
+    "senderName": "PERDANA AI",
+    "senderMobile": "6281298088889",
+    "status": "",
+    "star": false,
+    "route": "INCOMING"
+  },
+  {
+    "type": "text",
+    "metaChatId": "wamid.HBgNNjI4MTI5ODA4ODg4ORUCABIYIEU0NjkzRkRDRjJGNkJEODg1QUJCRkUzNzMxRDVGODI3AA==",
+    "msgContext": {
+      "type": "text",
+      "text": {
+        "preview_url": true,
+        "body": "Ping"
+      }
+    },
+    "reaction": "",
+    "timestamp": 1728998029,
+    "senderName": "PERDANA AI",
+    "senderMobile": "6281298088889",
+    "status": "",
+    "star": false,
+    "route": "INCOMING"
+  },
+  {
+    "type": "text",
+    "metaChatId": "wamid.HBgNNjI4MTI5ODA4ODg4ORUCABIYIEY0NjEzNkNDNkJGQUQ0QTc3REY3OEY2OTZGNzZCRDkzAA==",
+    "msgContext": {
+      "type": "text",
+      "text": {
+        "preview_url": true,
+        "body": "Bang"
+      }
+    },
+    "reaction": "",
+    "timestamp": 1729008561,
+    "senderName": "PERDANA AI",
+    "senderMobile": "6281298088889",
+    "status": "",
+    "star": false,
+    "route": "INCOMING"
+  },
+  {
+    "type": "text",
+    "metaChatId": "wamid.HBgNNjI4MTI5ODA4ODg4ORUCABIYIDdDQzg5QzEwODY1NzE0N0VFOTc4QTc1QTMwOURFREQ3AA==",
+    "msgContext": {
+      "type": "text",
+      "text": {
+        "preview_url": true,
+        "body": "Tes"
+      }
+    },
+    "reaction": "",
+    "timestamp": 1729182048,
+    "senderName": "PERDANA AI",
+    "senderMobile": "6281298088889",
+    "status": "",
+    "star": false,
+    "route": "INCOMING"
+  }
+]

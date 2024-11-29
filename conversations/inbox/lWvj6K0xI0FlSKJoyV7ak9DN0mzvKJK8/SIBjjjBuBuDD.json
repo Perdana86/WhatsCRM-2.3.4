@@ -1,0 +1,38 @@
+[
+  {
+    "type": "text",
+    "metaChatId": "wamid.HBgMNjI4MTExODM4Mzc3FQIAEhggRTFBMDg1NTYyMkNDNTI4QzYzNzI3NTA4QUJBNjAxMjkA",
+    "msgContext": {
+      "type": "text",
+      "text": {
+        "preview_url": true,
+        "body": "Tes"
+      }
+    },
+    "reaction": "",
+    "timestamp": 1729007730,
+    "senderName": "EMAH PERDANA",
+    "senderMobile": "628111838377",
+    "status": "",
+    "star": false,
+    "route": "INCOMING"
+  },
+  {
+    "type": "text",
+    "metaChatId": "wamid.HBgMNjI4MTExODM4Mzc3FQIAEhggNUJDRkEwRTdBNDVFNDQ2RDM2RTcwOEY4NTM5NDU1RTIA",
+    "msgContext": {
+      "type": "text",
+      "text": {
+        "preview_url": true,
+        "body": "/gambar"
+      }
+    },
+    "reaction": "",
+    "timestamp": 1729035552,
+    "senderName": "EMAH PERDANA",
+    "senderMobile": "628111838377",
+    "status": "",
+    "star": false,
+    "route": "INCOMING"
+  }
+]

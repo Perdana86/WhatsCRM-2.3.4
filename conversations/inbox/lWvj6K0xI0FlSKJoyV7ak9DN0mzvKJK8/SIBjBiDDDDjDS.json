@@ -1,0 +1,254 @@
+[
+  {
+    "type": "text",
+    "metaChatId": "wamid.HBgNNjI4MTgwNzc3NzE3NhUCABIYIDU1OEJGREUwRjc4OTM4MDJFNDY3QUQ1MjVERTlGM0MzAA==",
+    "msgContext": {
+      "type": "text",
+      "text": {
+        "preview_url": true,
+        "body": "Malam"
+      }
+    },
+    "reaction": "",
+    "timestamp": 1728997886,
+    "senderName": "ME",
+    "senderMobile": "6281807777176",
+    "status": "",
+    "star": false,
+    "route": "INCOMING"
+  },
+  {
+    "type": "text",
+    "metaChatId": "wamid.HBgNNjI4MTgwNzc3NzE3NhUCABIYIDkzNDhEQzk3RjE5MjlDQTAyMDM5NEE1QUFFMTdEMzBEAA==",
+    "msgContext": {
+      "type": "text",
+      "text": {
+        "preview_url": true,
+        "body": "Tes"
+      }
+    },
+    "reaction": "",
+    "timestamp": 1728997991,
+    "senderName": "ME",
+    "senderMobile": "6281807777176",
+    "status": "",
+    "star": false,
+    "route": "INCOMING"
+  },
+  {
+    "type": "text",
+    "metaChatId": "wamid.HBgNNjI4MTgwNzc3NzE3NhUCABIYIDRBRTVGOEVFQUFGM0I3ODBBRjJGNEVDNEE4NUJGOTNGAA==",
+    "msgContext": {
+      "type": "text",
+      "text": {
+        "preview_url": true,
+        "body": "tes"
+      }
+    },
+    "reaction": "",
+    "timestamp": 1728997993,
+    "senderName": "ME",
+    "senderMobile": "6281807777176",
+    "status": "",
+    "star": false,
+    "route": "INCOMING"
+  },
+  {
+    "type": "text",
+    "metaChatId": "wamid.HBgNNjI4MTgwNzc3NzE3NhUCABIYIDQ3MjdGRTEwOTgxRDZBMkQ3OTMzMDNCQkM3NjREQUExAA==",
+    "msgContext": {
+      "type": "text",
+      "text": {
+        "preview_url": true,
+        "body": "tes"
+      }
+    },
+    "reaction": "",
+    "timestamp": 1728998125,
+    "senderName": "ME",
+    "senderMobile": "6281807777176",
+    "status": "",
+    "star": false,
+    "route": "INCOMING"
+  },
+  {
+    "type": "text",
+    "metaChatId": "wamid.HBgNNjI4MTgwNzc3NzE3NhUCABIYIDA4QjFGMTMyQjRFQTA3M0Y2MTQ0RjFBMEMzNTI1RkVGAA==",
+    "msgContext": {
+      "type": "text",
+      "text": {
+        "preview_url": true,
+        "body": "bang"
+      }
+    },
+    "reaction": "",
+    "timestamp": 1728998127,
+    "senderName": "ME",
+    "senderMobile": "6281807777176",
+    "status": "",
+    "star": false,
+    "route": "INCOMING"
+  },
+  {
+    "type": "text",
+    "metaChatId": "wamid.HBgNNjI4MTgwNzc3NzE3NhUCABIYIDQ0MjQ0RERGQjhFQjM3NDQ1OUFFQUE1NDQ1Rjk0OUNCAA==",
+    "msgContext": {
+      "type": "text",
+      "text": {
+        "preview_url": true,
+        "body": "p"
+      }
+    },
+    "reaction": "",
+    "timestamp": 1728998129,
+    "senderName": "ME",
+    "senderMobile": "6281807777176",
+    "status": "",
+    "star": false,
+    "route": "INCOMING"
+  },
+  {
+    "type": "text",
+    "metaChatId": "wamid.HBgNNjI4MTgwNzc3NzE3NhUCABIYIDY1MkRGQjIzMDA3NkE3RkJCMzlBRUMzN0FCMDkxNkMxAA==",
+    "msgContext": {
+      "type": "text",
+      "text": {
+        "preview_url": true,
+        "body": "menu"
+      }
+    },
+    "reaction": "",
+    "timestamp": 1728998133,
+    "senderName": "ME",
+    "senderMobile": "6281807777176",
+    "status": "",
+    "star": false,
+    "route": "INCOMING"
+  },
+  {
+    "type": "text",
+    "metaChatId": "wamid.HBgNNjI4MTgwNzc3NzE3NhUCABIYIEZGMzg2Q0FBNTIwMEVCNTA3RjJBNjFGNjY0OTRCREIyAA==",
+    "msgContext": {
+      "type": "text",
+      "text": {
+        "preview_url": true,
+        "body": "Tes"
+      }
+    },
+    "reaction": "",
+    "timestamp": 1729052761,
+    "senderName": "ME",
+    "senderMobile": "6281807777176",
+    "status": "",
+    "star": false,
+    "route": "INCOMING"
+  },
+  {
+    "type": "text",
+    "metaChatId": "wamid.HBgNNjI4MTgwNzc3NzE3NhUCABIYIEI1RDc2QkVFNjI0QzM1OTYyM0NERjFEQ0RBNTE3NjdGAA==",
+    "msgContext": {
+      "type": "text",
+      "text": {
+        "preview_url": true,
+        "body": "tes"
+      }
+    },
+    "reaction": "",
+    "timestamp": 1729052775,
+    "senderName": "ME",
+    "senderMobile": "6281807777176",
+    "status": "",
+    "star": false,
+    "route": "INCOMING"
+  },
+  {
+    "type": "text",
+    "metaChatId": "wamid.HBgNNjI4MTgwNzc3NzE3NhUCABIYIDQ5RkJEQTQyNEIxOTQyRjlGREQ0RDk4RDYzODhDREQ1AA==",
+    "msgContext": {
+      "type": "text",
+      "text": {
+        "preview_url": true,
+        "body": "bang"
+      }
+    },
+    "reaction": "",
+    "timestamp": 1729052779,
+    "senderName": "ME",
+    "senderMobile": "6281807777176",
+    "status": "",
+    "star": false,
+    "route": "INCOMING"
+  },
+  {
+    "type": "text",
+    "metaChatId": "wamid.HBgNNjI4MTgwNzc3NzE3NhUCABIYIEU5MzNDMTIxOUIzMDA3QkNFMjdDRjQ4RUQ4MTAxMTE3AA==",
+    "msgContext": {
+      "type": "text",
+      "text": {
+        "preview_url": true,
+        "body": "menu"
+      }
+    },
+    "reaction": "",
+    "timestamp": 1729052781,
+    "senderName": "ME",
+    "senderMobile": "6281807777176",
+    "status": "",
+    "star": false,
+    "route": "INCOMING"
+  },
+  {
+    "type": "text",
+    "metaChatId": "wamid.HBgNNjI4MTgwNzc3NzE3NhUCABIYIENENjEwQ0I1NzZCN0U4NUFDQ0IyQjdGNjU5MzA2MDMzAA==",
+    "msgContext": {
+      "type": "text",
+      "text": {
+        "preview_url": true,
+        "body": "$hooks = Webhook::where('status',2)->latest()->get();\n        foreach ($hooks as $key => $row) {\n            try {\n                $response =  Http::post($row->hook, json_decode($row->payload));\n                $responseStatus = $response->status();\n                $hook = Webhook::where('id',$row->id)->first();\n                $hook->status = $responseStatus == 200 ? 1 : 0;\n                $hook->status_code = $responseStatus;\n                $hook->save();\n            } catch (Exception $e) {\n                $hook = Webhook::where('id',$row->id)->first();\n                $hook->status = 0;\n                $hook->status_code = 500;\n                $hook->save();\n            }\n        }"
+      }
+    },
+    "reaction": "",
+    "timestamp": 1729076453,
+    "senderName": "ME",
+    "senderMobile": "6281807777176",
+    "status": "",
+    "star": false,
+    "route": "INCOMING"
+  },
+  {
+    "type": "text",
+    "metaChatId": "wamid.HBgNNjI4MTgwNzc3NzE3NhUCABIYIDg5MDc4QkFBNTlCQjI2NkVGMUI5Nzk3MDE5MjdFRDBFAA==",
+    "msgContext": {
+      "type": "text",
+      "text": {
+        "preview_url": true,
+        "body": "https://github.com/WhatsAppGA/Whatsapp-Gateway?tab=readme-ov-file"
+      }
+    },
+    "reaction": "",
+    "timestamp": 1729101116,
+    "senderName": "ME",
+    "senderMobile": "6281807777176",
+    "status": "",
+    "star": false,
+    "route": "INCOMING"
+  },
+  {
+    "type": "text",
+    "metaChatId": "wamid.HBgNNjI4MTgwNzc3NzE3NhUCABIYIDhEREUyNjM0QTc0M0FGQTc3NkQ1RjlBODg2MjZCOTlCAA==",
+    "msgContext": {
+      "type": "text",
+      "text": {
+        "preview_url": true,
+        "body": "Ping"
+      }
+    },
+    "reaction": "",
+    "timestamp": 1729182060,
+    "senderName": "ME",
+    "senderMobile": "6281807777176",
+    "status": "",
+    "star": false,
+    "route": "INCOMING"
+  }
+]

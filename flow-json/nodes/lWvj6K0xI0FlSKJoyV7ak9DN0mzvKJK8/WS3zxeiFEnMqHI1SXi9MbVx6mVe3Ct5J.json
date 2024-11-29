@@ -1,0 +1,92 @@
+[
+  {
+    "id": "1728997910314",
+    "position": {
+      "x": 81,
+      "y": 77
+    },
+    "nodeType": "TEXT",
+    "data": {
+      "msgContent": {
+        "type": "text",
+        "text": {
+          "preview_url": true,
+          "body": "{{OTHER_MSG}}"
+        }
+      },
+      "keyword": [
+        "{{OTHER_MSG}}"
+      ]
+    },
+    "type": "TEXT",
+    "width": 271,
+    "height": 252,
+    "selected": false,
+    "dragging": false,
+    "positionAbsolute": {
+      "x": 81,
+      "y": 77
+    }
+  },
+  {
+    "id": "1728997919228",
+    "position": {
+      "x": 417,
+      "y": 21
+    },
+    "nodeType": "IMAGE",
+    "data": {
+      "msgContent": {
+        "type": "image",
+        "image": {
+          "link": "https://api.e-wachat.id/media/viG91pcaG4UzgNibgYUSe3HFWZhiNe7Z.webp",
+          "caption": "Hai kakak selamat datang di *WAChat*\nAplikasi Pemasaran dan Integrasi Aplikasi Digital Anda.\nSilahkan beritahu kami apa yang bisa kami bantu.\nAtau pilih Menu dibawah ini dengan Ketik *menu*:"
+        }
+      },
+      "keyword": [
+        "menu"
+      ]
+    },
+    "type": "IMAGE",
+    "width": 318,
+    "height": 528,
+    "selected": false,
+    "positionAbsolute": {
+      "x": 417,
+      "y": 21
+    },
+    "dragging": false
+  },
+  {
+    "id": "1728998050028",
+    "position": {
+      "x": 62,
+      "y": 322
+    },
+    "nodeType": "TEXT",
+    "data": {
+      "msgContent": {
+        "type": "text",
+        "text": {
+          "preview_url": true,
+          "body": "Hai kakak selamat datang di *WAChat*\nAplikasi Pemasaran dan Integrasi Aplikasi Digital Anda.\nSilahkan beritahu kami apa yang bisa kami bantu.\nAtau pilih Menu dibawah ini dengan Ketik *menu*:"
+        }
+      },
+      "keyword": [
+        "tes",
+        "p",
+        "ok",
+        "bang"
+      ]
+    },
+    "type": "TEXT",
+    "width": 271,
+    "height": 425,
+    "selected": false,
+    "dragging": false,
+    "positionAbsolute": {
+      "x": 62,
+      "y": 322
+    }
+  }
+]

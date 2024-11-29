@@ -1,0 +1,44 @@
+[
+  {
+    "source": "1728997910314",
+    "sourceHandle": "{{OTHER_MSG}}",
+    "target": "1728997919228",
+    "targetHandle": "1728997919228_target",
+    "id": "reactflow__edge-1728997910314{{OTHER_MSG}}-17289979192281728997919228_target"
+  },
+  {
+    "source": "1728998050028",
+    "sourceHandle": "tes",
+    "target": "1728997919228",
+    "targetHandle": "1728997919228_target",
+    "id": "reactflow__edge-1728998050028tes-17289979192281728997919228_target"
+  },
+  {
+    "source": "1728998050028",
+    "sourceHandle": "p",
+    "target": "1728997919228",
+    "targetHandle": "1728997919228_target",
+    "id": "reactflow__edge-1728998050028p-17289979192281728997919228_target"
+  },
+  {
+    "source": "1728998050028",
+    "sourceHandle": "ok",
+    "target": "1728997919228",
+    "targetHandle": "1728997919228_target",
+    "id": "reactflow__edge-1728998050028ok-17289979192281728997919228_target"
+  },
+  {
+    "source": "1728998050028",
+    "sourceHandle": "bang",
+    "target": "1728997919228",
+    "targetHandle": "1728997919228_target",
+    "id": "reactflow__edge-1728998050028bang-17289979192281728997919228_target"
+  },
+  {
+    "source": "1728997919228",
+    "sourceHandle": "menu",
+    "target": "1728998050028",
+    "targetHandle": "1728998050028_target",
+    "id": "reactflow__edge-1728997919228menu-17289980500281728998050028_target"
+  }
+]
